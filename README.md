@@ -1,4 +1,3 @@
-# docker-spark
 ## Environment
 
 Unless you already have a working [Apache Spark](http://spark.apache.org/) cluster, you will need to have [Docker](https://docs.docker.com/) for simple environment setup.
